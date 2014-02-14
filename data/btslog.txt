@@ -1,0 +1,112 @@
+
+=============================================
+============== BASE TOPIC SEGMENTS===========
+=============================================
+Considero i segmenti 0-17 e 17-162
+	I due segmenti non possono essere combinati
+Considero i segmenti 17-162 e 162-187
+	I due segmenti non possono essere combinati
+Considero i segmenti 162-187 e 187-303
+	I due segmenti non possono essere combinati
+Considero i segmenti 187-303 e 303-566
+	I due segmenti non possono essere combinati
+Considero i segmenti 303-566 e 566-735
+	Posso combinare i due segmenti
+Considero i segmenti 303-735 e 735-854
+	Aggiungo il segmento alla combinazione precedente
+Considero i segmenti 303-854 e 854-879
+	Chiudo la combinazione precedente e tengo da parte il segmento
+Considero i segmenti 854-879 e 879-940
+	Posso combinare i due segmenti
+Considero i segmenti 854-940 e 940-1129
+	Chiudo la combinazione precedente e tengo da parte il segmento
+Considero i segmenti 940-1129 e 1129-1217
+	Posso combinare i due segmenti
+Considero i segmenti 940-1217 e 1217-1256
+	Aggiungo il segmento alla combinazione precedente
+Considero i segmenti 940-1256 e 1256-1477
+	Aggiungo il segmento alla combinazione precedente
+Considero i segmenti 940-1477 e 1477-1501
+	Chiudo la combinazione precedente e tengo da parte il segmento
+Considero i segmenti 1477-1501 e 1501-1618
+	I due segmenti non possono essere combinati
+Considero i segmenti 1501-1618 e 1618-1619
+	I due segmenti non possono essere combinati
+Considero i segmenti 1618-1619 e 1619-1630
+	I due segmenti non possono essere combinati
+Considero i segmenti 1619-1630 e 1630-1736
+	I due segmenti non possono essere combinati
+Considero i segmenti 1630-1736 e 1736-1750
+	I due segmenti non possono essere combinati
+Considero i segmenti 1736-1750 e 1750-1769
+	I due segmenti non possono essere combinati
+Considero i segmenti 1750-1769 e 1769-1791
+	I due segmenti non possono essere combinati
+
+[RISULTATI BASE TOPIC SEGMENTS]
+
+Num. Base Topic Seg. = 15
+Delta_drifting = 7.12859525
+
+0-->17
+k = 0.3715906470588235
+sigma = 0.0
+-----------------------------
+17-->162
+k = -0.03169188965517241
+sigma = 1.644820237732879
+-----------------------------
+162-->187
+k = -0.95676228
+sigma = 0.0
+-----------------------------
+187-->303
+k = 0.2079950948275862
+sigma = 4.664578819208576
+-----------------------------
+303-->854
+k = 0.00169913611615245
+sigma = 0.5099467861748295
+-----------------------------
+854-->940
+k = -0.011463325581395348
+sigma = 1.1165728310621637
+-----------------------------
+940-->1477
+k = -0.002912953445065177
+sigma = 0.16716286837834834
+-----------------------------
+1477-->1501
+k = 0.058328958333333326
+sigma = 0.05054503359586173
+-----------------------------
+1501-->1618
+k = -0.005531051282051282
+sigma = 0.3541417042090323
+-----------------------------
+1618-->1619
+k = 0.809617
+sigma = 0.0
+-----------------------------
+1619-->1630
+k = -0.04693736363636363
+sigma = 0.0
+-----------------------------
+1630-->1736
+k = 0.0012455660377358492
+sigma = 0.18090511438603282
+-----------------------------
+1736-->1750
+k = 0.022786357142857143
+sigma = 0.0
+-----------------------------
+1750-->1769
+k = -0.024818684210526316
+sigma = 0.11764510966224373
+-----------------------------
+1769-->1791
+k = 0.017224909090909093
+sigma = 0.0
+-----------------------------
+
+##############################################################################################

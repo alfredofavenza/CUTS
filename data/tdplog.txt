@@ -1,0 +1,20 @@
+
+[RISULTATI TOPIC DEVELOPMENT PATTERN]
+
+Seg.#      Entrys       Time       Tipo Pattern
+
+1           0-1             0-->17          DOMINATED
+2           1-10             17-->162          DOMINATED
+3           10-11             162-->187          DOMINATED
+4           11-17             187-->303          DOMINATED
+5           17-44             303-->854          DOMINATED
+6           44-50             854-->940          DOMINATED
+7           50-87             940-->1477          DOMINATED
+8           87-89             1477-->1501          DOMINATED
+9           89-99             1501-->1618          DOMINATED
+10           99-100             1618-->1619          DOMINATED
+11           100-101             1619-->1630          DOMINATED
+12           101-110             1630-->1736          DOMINATED
+13           110-111             1736-->1750          DOMINATED
+14           111-115             1750-->1769          DOMINATED
+15           115-116             1769-->1791          DOMINATED
